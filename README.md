@@ -9,5 +9,7 @@ This course goes through the primary concepts of programming a robotic car. Many
    - Normal Python interpretor if using Linux
 
 #Note
-The repository contains multiple files of my multiple attempts at a single problem. 
+1. The repository contains multiple files of my multiple attempts at a single problem. 
+2. The A-star algorithm solution code is not uploaded, since I have used that in patented projects, hence I am forbidden to make them    public. Apologies for that. 
+
    
